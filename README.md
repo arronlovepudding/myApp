@@ -1,2 +1,0 @@
-# myApp
-ionic build app
